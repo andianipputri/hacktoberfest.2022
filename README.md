@@ -1,10 +1,10 @@
-# Hallo
-
 This is a hacktoberfest repository.
+
 The repository is open to accept PR's for Hacktoberfest 2022. Quality Pull requests only.
+
 Happy Hacking! Happy Hacktoberfest!
 
-# Hacktoberfest
+# What is Hacktoberfest? 
 
 Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
 
