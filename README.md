@@ -1,1 +1,1 @@
-# hacktoberfest.2022
+# Rules
